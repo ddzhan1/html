@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F7971E&center=true&vCenter=true&width=900&lines=Willkommen+auf+meinem+GitHub!;Code+%E2%9D%A4%EF%B8%8F+Kreativit%C3%A4t+%E2%9A%A1%EF%B8%8F+Zukunft;Open+Source+ist+Magie!;Have+fun+scrolling+%F0%9F%8C%9F"
-    alt="Willkommen auf meinem GitHub!"
-  />
+
 </p>
 
 ---
